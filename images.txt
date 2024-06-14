@@ -1,4 +1,4 @@
---platform=linux/amd64 redis:7.0.15-alpine3.20
---platform=linux/amd64 langfuse/langfuse:latest
---platform=linux/amd64 langfuse/langfuse:2
---platform=linux/amd64 postgres:latest
+redis:7.0.15-alpine3.20
+langfuse/langfuse:latest
+langfuse/langfuse:2
+postgres:latest
