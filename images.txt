@@ -9,3 +9,4 @@ python:3.10-slim
 1panel/openresty:1.21.4.3-3-3-focal
 mysql:8.2.0
 mysql:9.0.0
+node:20
