@@ -4,3 +4,4 @@ justsong/one-api:v0.6.8
 justsong/one-api:v0.6.9-alpha
 pgvector/pgvector:pg16
 redis:6.0
+nginx:latest
