@@ -3,3 +3,4 @@ langfuse/langfuse:2.71.0
 justsong/one-api:v0.6.8
 justsong/one-api:v0.6.9-alpha
 pgvector/pgvector:pg16
+redis:6.2.7
