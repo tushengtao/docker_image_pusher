@@ -5,3 +5,4 @@ justsong/one-api:v0.6.10-alpha.1
 pgvector/pgvector:pg16
 redis:6.0
 nginx:latest
+ghcr.io/intergalacticalvariable/reader:latest
