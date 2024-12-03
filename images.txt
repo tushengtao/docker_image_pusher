@@ -6,3 +6,4 @@ pgvector/pgvector:pg16
 redis:6.0
 nginx:latest
 ghcr.io/intergalacticalvariable/reader:latest
+python:3.11-slim
