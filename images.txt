@@ -1,5 +1,5 @@
 node:18.20.2
-langfuse/langfuse:3.8.0
+langfuse/langfuse:3
 justsong/one-api:v0.6.10
 pgvector/pgvector:pg16
 redis:6.0
