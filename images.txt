@@ -1,6 +1,6 @@
 node:18.20.2
 langfuse/langfuse:2.93.8
-justsong/one-api:v0.6.10
+justsong/one-api:v0.6.11-preview.7
 pgvector/pgvector:pg16
 redis:6.0
 nginx:latest
